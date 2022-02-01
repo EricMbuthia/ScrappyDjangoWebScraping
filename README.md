@@ -1,3 +1,3 @@
 # ScrappyDjangoWebScraping
 
-Dowes web scraping using DJango and Scrapy frameworks
+Does web scraping using DJango and Scrapy frameworks
